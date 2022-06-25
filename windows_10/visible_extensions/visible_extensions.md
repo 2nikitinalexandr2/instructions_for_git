@@ -4,3 +4,4 @@
     * change folder and search options
     * вкладка view
     * убрать галочку "Hide extensions for known file types"
+    
