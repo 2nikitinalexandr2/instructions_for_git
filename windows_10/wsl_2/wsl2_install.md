@@ -34,3 +34,19 @@ ln -s /mnt/c/Users/<username> win_home
 ```
 wsl -l -v
 ```
+* выключить ВМ 
+```
+wsl
+```
+* выключить:
+```
+wsl --shutdown
+```
+* посмотреть состояние:
+```
+wsl --list --verbose
+```
+
+* источники:
+* https://gist.github.com/installero/1fd070e06de629405a7e3a361b88179a
+* https://adamtheautomator.com/windows-subsystem-for-linux/

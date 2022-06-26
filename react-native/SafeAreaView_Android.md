@@ -1,0 +1,1 @@
+* https://stackoverflow.com/questions/51289587/how-to-use-safeareaview-for-android-notch-devices

@@ -1,0 +1,1 @@
+1. ctrl+alt+s : settings : editor: general change font size with ctrl+mouse wheel
