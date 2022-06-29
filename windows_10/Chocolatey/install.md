@@ -11,6 +11,10 @@ Restricted
 ```
 Set-ExecutionPolicy RemoteSigned –Force
 ```
+* или на `Bypass -Scope Process`
+  ```
+   Set-ExecutionPolicy Bypass -Scope Process
+  ```
 
 * опция –Force чтобы не появлялся запрос подтверждения
    

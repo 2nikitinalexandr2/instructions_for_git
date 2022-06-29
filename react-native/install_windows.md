@@ -49,3 +49,4 @@ npx react-native init AwesomeProject
    * https://ip-calculator.ru/blog/ask/change-system-variables-windows-10/
    * https://winaero.com/create-environment-variable-windows-10/
    * http://www.dowdandassociates.com/blog/content/howto-set-an-environment-variable-in-windows-command-line-and-registry/
+   * https://www.jscamp.app/ru/docs/reactnative14
