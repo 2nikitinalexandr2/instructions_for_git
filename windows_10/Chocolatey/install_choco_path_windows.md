@@ -27,6 +27,7 @@ setx ANDROID_HOME "C:\Users\user\AppData\Local\Android\Sdk\"
   ```
   setx /M path "%path%;%JAVA_HOME%\bin"
   ```
+  
 
 5. создадим проект AwesomeProject:
 ```
