@@ -43,3 +43,8 @@ ssh root@localhost -p 2222
 ```
 ssh-keygen -R [localhost]:2222
 ```
+5. подключение без пароля, добавим свой публичный ключ на сервер
+```
+ssh-copy-id -p 2222 root@localhost
+```
+* и подключимся уже без пароля
